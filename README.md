@@ -1,0 +1,2 @@
+# HIND-AGGREGATOR
+Our project will have a well-designed user-interface and all the comfort and power will be at the hands of the user for their convenience. Proper search tools, well-defined links and pages and proper data retrieval will definitely make sure that our whole project is based around the needs and comfort of the user, keeping in mind that the website should be easily accessible for all the Indian citizens. We can assure that most the needs and expectations of the user from our website will be catered, if not all.
